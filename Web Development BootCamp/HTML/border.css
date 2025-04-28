@@ -1,0 +1,20 @@
+.first{
+    border-style:double;
+    border-color: blue;
+    border-radius: 20px;
+    border-width: 20px;
+    width:auto;
+    height:auto;
+}
+
+.second{
+    border-top: 5px solid blue;
+    border-left: 40px solid blue;
+    border-bottom: 5px solid blue;
+    border-right:40px solid blue;
+}
+.third{
+    border-style:groove;
+    border: 50px 20px 50px 20px;
+    border-color: aqua;
+}
