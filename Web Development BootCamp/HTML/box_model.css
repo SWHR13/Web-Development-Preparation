@@ -1,0 +1,11 @@
+#box_model{
+    padding: 20px;
+    border: 20px solid green;
+    margin: 20px;
+}
+
+.again{
+    padding: 100px;
+    border: 80px solid rgb(12, 36, 12);
+    margin: 40px;
+}

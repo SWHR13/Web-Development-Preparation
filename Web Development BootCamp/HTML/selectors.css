@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    color: red;
+}
+
+#para1{
+    text-align: center;
+    color: rgb(54, 8, 161);
+    border: 20px solid red;
+}
+
+.common{
+    text-align: left;
+    border: 10px solid blueviolet;
+}
+
+*{
+    background-color: rgb(135, 255, 124);
+    /*this is Universal */
+}
+
+h1,p,p{
+    color: brown;
+    /* it will apply in all directions where p,h1 occurs */
+
+}
