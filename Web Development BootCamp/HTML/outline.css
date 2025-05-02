@@ -1,0 +1,9 @@
+.p{
+    outline:5px solid blue;
+    border-color: green;
+    margin: 20px;
+    color: red;
+    border-style: dashed;
+    outline-style: double;
+    outline-width: thick;
+}
